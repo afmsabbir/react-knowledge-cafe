@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://app.gemoo.com/share/image-annotation/626988640950136832?codeId=M07y8bd9BENaY&origin=imageurlgenerator&card=626988638530027520",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://app.gemoo.com/share/home?codeId=DGW1GpQOKkpnb",
+      "posted_date": "2024-03-15",
+      "reading_time": "10 mins",
+      "hashtags": ["programming", "coding", "software"]
+    },
+    {
+      "id": 2,
+      "cover": "https://app.gemoo.com/share/home?codeId=P57kO5L5dVAnl",
+      "title": "Cooking Made Easy",
+      "author": "Jane Smith",
+      "author_img": "https://app.gemoo.com/share/home?codeId=v67K0ZBLyq8Az",
+      "posted_date": "2024-03-14",
+      "reading_time": "15 mins",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://app.gemoo.com/share/home?codeId=v67K05y93kzQo",
+      "title": "Mindfulness Meditation",
+      "author": "Emily Johnson",
+      "author_img": "https://app.gemoo.com/share/home?codeId=M07y8p0gX7r7o",
+      "posted_date": "2024-03-13",
+      "reading_time": "12 mins",
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://app.gemoo.com/share/home?codeId=P57kO8n6yGj7g",
+      "title": "Finance Basics",
+      "author": "Michael Brown",
+      "author_img": "https://app.gemoo.com/share/home?codeId=v67K0LjybJ1Lo",
+      "posted_date": "2024-03-12",
+      "reading_time": "8 mins",
+      "hashtags": ["finance", "money", "investing"]
+    },
+    {
+      "id": 5,
+      "cover": "https://app.gemoo.com/share/home?codeId=P57kO8n6yGj7g",
+      "title": "Photography Tips and Tricks",
+      "author": "Sarah Lee",
+      "author_img": "https://app.gemoo.com/share/home?codeId=v67K0LjybJ1Lo",
+      "posted_date": "2024-03-11",
+      "reading_time": "20 mins",
+      "hashtags": ["photography", "tips", "tricks"]
+    }
+  ]
+  
