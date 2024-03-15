@@ -6,7 +6,7 @@
       "author": "John Doe",
       "author_img": "https://app.gemoo.com/share/home?codeId=DGW1GpQOKkpnb",
       "posted_date": "2024-03-15",
-      "reading_time": "10 mins",
+      "reading_time": 10,
       "hashtags": ["programming", "coding", "software"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "Jane Smith",
       "author_img": "https://app.gemoo.com/share/home?codeId=v67K0ZBLyq8Az",
       "posted_date": "2024-03-14",
-      "reading_time": "15 mins",
+      "reading_time": 15,
       "hashtags": ["cooking", "recipes", "food"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Emily Johnson",
       "author_img": "https://app.gemoo.com/share/home?codeId=M07y8p0gX7r7o",
       "posted_date": "2024-03-13",
-      "reading_time": "12 mins",
+      "reading_time": 12,
       "hashtags": ["mindfulness", "meditation", "wellness"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Michael Brown",
       "author_img": "https://app.gemoo.com/share/home?codeId=v67K0LjybJ1Lo",
       "posted_date": "2024-03-12",
-      "reading_time": "8 mins",
+      "reading_time": 8,
       "hashtags": ["finance", "money", "investing"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Sarah Lee",
       "author_img": "https://app.gemoo.com/share/home?codeId=v67K0LjybJ1Lo",
       "posted_date": "2024-03-11",
-      "reading_time": "20 mins",
+      "reading_time": 20,
       "hashtags": ["photography", "tips", "tricks"]
     }
   ]
