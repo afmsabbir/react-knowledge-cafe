@@ -13,14 +13,17 @@ function App() {
   };
   const handleMarkAsRead = (time) => {
     const newReadTime = readingTime + time;
-    setReadingTime(newReadTime)
+    setReadingTime(newReadTime);
   };
   return (
     <div className="max-w-7xl mx-auto">
       <Header></Header>
       <div className="md:flex">
-        <Blogs handleAddToBookmark={handleAddToBookmark} handleMarkAsRead ={handleMarkAsRead}></Blogs>
-        <Bookmarks  bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
+        <Blogs
+          handleAddToBookmark={handleAddToBookmark}
+          handleMarkAsRead={handleMarkAsRead}
+        ></Blogs>
+        <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
       </div>
     </div>
   );

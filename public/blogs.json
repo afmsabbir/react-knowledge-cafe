@@ -1,53 +1,52 @@
 [
-    {
-      "id": 1,
-      "cover": "https://i.postimg.cc/hvW1vkvT/1.jpg",
-      "title": "The Art of Programming",
-      "author": "John Doe",
-      "author_img": "https://i.postimg.cc/90mzLbNs/boy1.png",
-      "posted_date": "2024-03-15",
-      "reading_time": 10,
-      "hashtags": ["programming", "coding", "software"]
-    },
-    {
-      "id": 2,
-      "cover": "https://i.postimg.cc/02HrCpGH/2.png",
-      "title": "Cooking Made Easy",
-      "author": "Jane Smith",
-      "author_img": "https://i.postimg.cc/5yK9nVzF/boy2.jpg",
-      "posted_date": "2024-03-14",
-      "reading_time": 15,
-      "hashtags": ["cooking", "recipes", "food"]
-    },
-    {
-      "id": 3,
-      "cover": "https://i.postimg.cc/BQyQFJsr/3.png",
-      "title": "Mindfulness Meditation",
-      "author": "Emily Johnson",
-      "author_img": "https://i.postimg.cc/N0vsNbKb/girl1.jpg",
-      "posted_date": "2024-03-13",
-      "reading_time": 12,
-      "hashtags": ["mindfulness", "meditation", "wellness"]
-    },
-    {
-      "id": 4,
-      "cover": "https://i.postimg.cc/hG8SNxxn/4.jpg",
-      "title": "Finance Basics",
-      "author": "Michael Brown",
-      "author_img": "https://i.postimg.cc/Bbzs2CWT/girl2.jpg",
-      "posted_date": "2024-03-12",
-      "reading_time": 8,
-      "hashtags": ["finance", "money", "investing"]
-    },
-    {
-      "id": 5,
-      "cover": "https://i.postimg.cc/hG8SNxxn/4.jpg",
-      "title": "Photography Tips and Tricks",
-      "author": "Sarah Lee",
-      "author_img": "https://i.postimg.cc/Bbzs2CWT/girl2.jpg",
-      "posted_date": "2024-03-11",
-      "reading_time": 20,
-      "hashtags": ["photography", "tips", "tricks"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "cover": "https://i.postimg.cc/hvW1vkvT/1.jpg",
+    "title": "The Art of Programming",
+    "author": "John Doe",
+    "author_img": "https://i.postimg.cc/90mzLbNs/boy1.png",
+    "posted_date": "2024-03-15",
+    "reading_time": 10,
+    "hashtags": ["programming", "coding", "software"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.postimg.cc/02HrCpGH/2.png",
+    "title": "Cooking Made Easy",
+    "author": "Jane Smith",
+    "author_img": "https://i.postimg.cc/5yK9nVzF/boy2.jpg",
+    "posted_date": "2024-03-14",
+    "reading_time": 15,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.postimg.cc/BQyQFJsr/3.png",
+    "title": "Mindfulness Meditation",
+    "author": "Emily Johnson",
+    "author_img": "https://i.postimg.cc/N0vsNbKb/girl1.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": 12,
+    "hashtags": ["mindfulness", "meditation", "wellness"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.postimg.cc/hG8SNxxn/4.jpg",
+    "title": "Finance Basics",
+    "author": "Michael Brown",
+    "author_img": "https://i.postimg.cc/Bbzs2CWT/girl2.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": 8,
+    "hashtags": ["finance", "money", "investing"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.postimg.cc/hG8SNxxn/4.jpg",
+    "title": "Photography Tips and Tricks",
+    "author": "Sarah Lee",
+    "author_img": "https://i.postimg.cc/Bbzs2CWT/girl2.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": 20,
+    "hashtags": ["photography", "tips", "tricks"]
+  }
+]
